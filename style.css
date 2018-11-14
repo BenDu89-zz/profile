@@ -1,0 +1,98 @@
+body {
+  background-color: #EBEBEB;
+  font-family: 'Niramit', sans-serif;
+  color: black;
+  font-size: 24;
+  line-height: normal;
+}
+
+p {
+  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: justify;
+
+}
+
+h1 {
+  font-family: 'Niramit', sans-serif;
+  line-height: normal;
+  color: #DD5555;
+  font-size: 22px;
+}
+
+h2 {
+  color: black;
+  font-family: 'Niramit', sans-serif;
+  font-size : 18;
+  line-height: normal;
+}
+
+h3 {
+  color: black;
+  font-family: 'Niramit', sans-serif;
+  font-size : 20;
+  line-height: normal;
+}
+
+a {
+  color: rgb(200,200,200);
+  text-decoration: none;
+}
+
+a:hover {
+    color:  rgb(230, 230, 230);
+}
+
+.card {
+  padding: 20;
+  background-color: white;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.text-center {
+  text-align: center;
+}
+div {
+  width: 450px;
+  margin:20px auto;
+ }
+
+#img-round-for-profile {
+  border-radius: 50%;
+  border: 3px solid #cccccc;
+}
+
+.btn-red {
+  background-color: #DD5555;
+  color: white;
+  border-radius: 2px;
+  font-size: 14px;
+  padding: 10px 20px;
+  margin: 10px;
+}
+
+.list-inline {
+  list-style-type: none;
+  padding: 20px;
+}
+
+.list-inline li {
+  size: auto;
+  padding: 20px;
+  font-size: auto;
+}
+
+i {
+  size: auto;
+}
+
+.list-inline li i{
+  font-size: 25px;
+}
+ul {
+    display: flex;
+    justify-content: space-around;
+}
+}
